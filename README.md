@@ -25,3 +25,9 @@ product_id, unit_price, product_category, product_type,
 product_detail.
 
 ● Make sure to remove duplicates from each table.
+
+Data Modeling
+
+● Identify Fact and Dimension Tables.
+● Create Relationships between tables.
+● Identify the schema.
